@@ -5,4 +5,4 @@ A small python project constructed using a strategy pattern, implementing defere
 ![My Remote Image](https://github.com/ThrillSeeker01/T-Shirt-Store/blob/master/Screenshot.png)
 
 # Notes
-*Tested on Windows and Linux!
+*Tested on Windows and Linux/MacOS!
